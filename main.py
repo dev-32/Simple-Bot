@@ -54,7 +54,7 @@ def test():
 
 
 
-greet('Aid', '2020')  # change it as you need
+greet('Ayush', '2002') 
 remind_name()
 guess_age()
 count()
