@@ -54,7 +54,7 @@ def test():
 
 
 
-greet('Ayush', '2002') 
+greet('Ayush', '2022') 
 remind_name()
 guess_age()
 count()
